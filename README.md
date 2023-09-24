@@ -15,10 +15,14 @@ A game called Vampire hood takes place in an environment reminiscent of Minecraf
 
 ## Overview for the game
 
-Because of a crazed scientist's error while attempting to reverse-engineer a virus, the globe has been overrun by zombies. By mistake, he unleashed a virus that transformed everyone into zombies. The only chance humanity has to survive the zombie apocalypse in this chaotic planet is by doing so. In order to survive the zombie apocalypse, you must be one of the survivors. Several other survivors and you were imprisoned in a village. You are trapped by the zombies and the lava after it erupted from the ground and formed a massive lava wall. The good news is that you discovered a "valeryan steel" sword hidden in your grandparents' room that could slay the undead. If you have the intelligence to stay clear of the lava and eliminate all vampires so you will be able to survive.
+Because of a crazed scientist's error while attempting to reverse-engineer a virus, the globe has been overrun by zombies. By mistake, he unleashed a virus that transformed everyone into vampires. The only chance humanity has to survive the zombie apocalypse in this chaotic planet is by doing so. In order to survive the vampire attack, you must be one of the survivors. Several other survivors and you were imprisoned in a village. You are trapped by the vampires  after it erupted from the ground . The good news is that you discovered a "Magical steel" sword hidden in your grandparents' room that could slay the undead. If you have the intelligence to eliminate all vampires so you will be able to survive.
 
 ## Screenshots
- 
+ ![image](https://github.com/DouglasHutchful1/4PF-GameTECH/assets/98133206/2b87eb70-07bd-48b6-98df-a73880e5dc45)
+
+![image](https://github.com/DouglasHutchful1/4PF-GameTECH/assets/98133206/27e4241b-3be0-4248-80a0-4546ccb1cba3)
+
+
 
 
  
@@ -41,7 +45,7 @@ cmake ./bin/GAME_APPLICATION.exe -c='config/light-test.jsonc
 
 ## Game Engine Overview
 
-The game engine is built using openGL and C++ and is cross-platform. It has been tested on Windows and Linux. It is designed to be modular and extensible. It uses the Entity-Component-System (ECS) architecture to model the game entities. 
+The game engine is built using openGL and C++ and is cross-platform. It has been tested on Windows and Linux. It uses the Entity-Component-System (ECS) architecture to model the game entities. 
 
 To build the game engine from source, you could follow the same steps as the ones used to build the game.
 
